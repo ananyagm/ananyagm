@@ -24,9 +24,9 @@ GestureDraw: Another cool thing I’ve worked on, this project uses hand gesture
 
 🌐 Connect With Me:
 
-LinkedIn: https://www.linkedin.com/in/ananya-biswal-821b1b298/
+LinkedIn:
 
-Personal Website/Portfolio: YourWebsite.com
+Personal Website/Portfolio: 
 
 Thanks for visiting my GitHub! Feel free to reach out or check out some of my work. Let’s create something amazing together! 🚀
 
