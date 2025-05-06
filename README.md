@@ -10,21 +10,16 @@ Welcome to my GitHub profile! I'm passionate about coding, problem-solving, and 
 
 🌱 Currently Learning: My current focus is on learning TensorFlow.
 
-📂 My GitHub Highlights:
-
 🌟 Featured Repositories
 
 Intelligent-Traffic-Management-System-using-ANPR-and-ATCC: Use YOLO and OpenCV to count and classify vehicles (cars, trucks, bikes) in real-time traffic videos.
 
 GestureDraw: Another cool thing I’ve worked on, this project uses hand gestures to draw on a canvas in real-time.
 
-🏆 GitHub Stats
-
 
 
 🌐 Connect With Me:
 
-LinkedIn:
 
 Personal Website/Portfolio: 
 
